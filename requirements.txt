@@ -31,7 +31,7 @@ constantly==15.1.0
 cryptography==35.0.0
     # via
     #   pyopenssl
-    #   requests-kerbero
+    #   requests-kerberos
 decorator==5.1.0
     # via
     #   dogpile.cache
